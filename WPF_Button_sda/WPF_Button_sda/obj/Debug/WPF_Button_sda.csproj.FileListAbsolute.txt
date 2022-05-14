@@ -1,0 +1,15 @@
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\bin\Debug\WPF_Button_sda.exe.config
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\bin\Debug\WPF_Button_sda.exe
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\bin\Debug\WPF_Button_sda.pdb
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.csproj.AssemblyReference.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\MainWindow.g.cs
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\App.g.cs
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda_MarkupCompile.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda_MarkupCompile.lref
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\MainWindow.baml
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.g.resources
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.Properties.Resources.resources
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.csproj.GenerateResource.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.csproj.CoreCompileInputs.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.exe
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\WPF1_Button_sda\WPF_Button_sda\WPF_Button_sda\obj\Debug\WPF_Button_sda.pdb
