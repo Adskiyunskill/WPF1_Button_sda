@@ -5,13 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_Button_sda"
         mc:Ignorable="d"
-        Title="Кнопеи жёсткого тролля" Height="450" Width="800"
-        WindowStartupLocation="CenterScreen">
-    <Canvas MouseDown="Canvas_MouseDown" Background="White">
-        <Button x:Name="button1" Content="Закрать" Canvas.Left="10"
+        Title="Чмоня?" Height="500" Width="770"
+        WindowStartupLocation="CenterScreen" SizeChanged="Window_SizeChanged" 
+        >
+    <Canvas MouseDown="Canvas_MouseDown" Background="White" >
+        <Button x:Name="button1" Content="Да" Canvas.Left="10"
                 Canvas.Top="10" Width="75" Click="button1_Click"/>
-        <Button x:Name="button2" Content="Пидор" Canvas.Left="112"
-                Canvas.Top="10" Width="75" MouseMove="button2_MouseMove" Click="button2_Click"
+        <Button x:Name="button2" Content="Нет" Canvas.Left="112"
+                Canvas.Top="10" Width="75" MouseMove="button2_MouseMove" 
+                Click="button2_Click"
                 />
     </Canvas>
 </Window>
